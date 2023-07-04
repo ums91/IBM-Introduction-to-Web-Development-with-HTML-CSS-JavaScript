@@ -1,4 +1,4 @@
-# IBM-Introduction-to-Web-Development-with-HTML-CSS-JavaScript
+# IBM-Introduction-to-Web-Development-with-HTML-CSS-JavaScript-Unit Conversion Lab
 Hands-on Lab: Unit Conversion using HTML5 Structural Elements.
 <br>
 In this lab, you will be creating a simple web page Unit Converter application that converts metric units to imperial units. The page will be divided into three sections, each of which will do one of the following:
