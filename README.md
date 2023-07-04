@@ -7,3 +7,5 @@ In this lab, you will be creating a simple web page Unit Converter application t
 <li>Convert weight from Kilograms to Pounds</li>
 <li>Convert distance from Kilometers to Miles</li>
 </ul>
+<br>
+Important Notice: This Repository and its Contents are for Educational Purposes Only Please note that the materials contained in this repository are part of lab assignment for a Coursera course. They are intended solely for educational purposes and should not be used for any other purpose. If you have any questions or concerns regarding the content, please contact the repository owner.
