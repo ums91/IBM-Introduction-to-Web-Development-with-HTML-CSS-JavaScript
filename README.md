@@ -1,6 +1,6 @@
 # IBM-Introduction-to-Web-Development-with-HTML-CSS-JavaScript-Unit Conversion,Simple Interest Calculator & Single-page portfolio website Lab
 
-Hands-on Lab: Unit Conversion using HTML5 Structural Elements.
+-Hands-on Lab: Unit Conversion using HTML5 Structural Elements.
 <br>
 In this lab, you will be creating a simple web page Unit Converter application that converts metric units to imperial units. The page will be divided into three sections, each of which will do one of the following:
 <ul>
@@ -9,9 +9,10 @@ In this lab, you will be creating a simple web page Unit Converter application t
 <li>Convert distance from Kilometers to Miles</li>
 </ul>
 <br>
-Hands-On Lab: Simple Interest Calculator.
+-Hands-On Lab: Simple Interest Calculator.
 <br>
-Portfolio Website.
+-Portfolio Website:
+<br>
 In this project you will be creating a single page Portfolio website using HTML5, CSS & Javascript having the following sections:
 <ul>
 <li>About Me</li>
